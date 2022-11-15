@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/emharrington/bank-tech-test#readme",
   "dependencies": {
-    "jest": "^29.3.1"
+    "jest": "^29.3.1",
+    "moment": "^2.29.4"
   }
 }
